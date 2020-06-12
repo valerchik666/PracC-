@@ -1,0 +1,14 @@
+C:\Users\Пожилой Папугай\Desktop\WPF_Calc-master\WPF Calc\bin\Debug\WPF Calc.exe.config
+C:\Users\Пожилой Папугай\Desktop\WPF_Calc-master\WPF Calc\bin\Debug\WPF Calc.exe
+C:\Users\Пожилой Папугай\Desktop\WPF_Calc-master\WPF Calc\bin\Debug\WPF Calc.pdb
+C:\Users\Пожилой Папугай\Desktop\WPF_Calc-master\WPF Calc\obj\Debug\WPF Calc.csprojAssemblyReference.cache
+C:\Users\Пожилой Папугай\Desktop\WPF_Calc-master\WPF Calc\obj\Debug\MainWindow.g.cs
+C:\Users\Пожилой Папугай\Desktop\WPF_Calc-master\WPF Calc\obj\Debug\App.g.cs
+C:\Users\Пожилой Папугай\Desktop\WPF_Calc-master\WPF Calc\obj\Debug\WPF Calc_MarkupCompile.cache
+C:\Users\Пожилой Папугай\Desktop\WPF_Calc-master\WPF Calc\obj\Debug\WPF Calc_MarkupCompile.lref
+C:\Users\Пожилой Папугай\Desktop\WPF_Calc-master\WPF Calc\obj\Debug\MainWindow.baml
+C:\Users\Пожилой Папугай\Desktop\WPF_Calc-master\WPF Calc\obj\Debug\WPF Calc.g.resources
+C:\Users\Пожилой Папугай\Desktop\WPF_Calc-master\WPF Calc\obj\Debug\WPF_Calc.Properties.Resources.resources
+C:\Users\Пожилой Папугай\Desktop\WPF_Calc-master\WPF Calc\obj\Debug\WPF Calc.csproj.GenerateResource.cache
+C:\Users\Пожилой Папугай\Desktop\WPF_Calc-master\WPF Calc\obj\Debug\WPF Calc.exe
+C:\Users\Пожилой Папугай\Desktop\WPF_Calc-master\WPF Calc\obj\Debug\WPF Calc.pdb
