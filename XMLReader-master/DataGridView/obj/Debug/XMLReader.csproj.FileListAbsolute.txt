@@ -1,0 +1,10 @@
+C:\Users\Пожилой Папугай\Desktop\XMLReader-master\DataGridView\bin\Debug\DataGridView.exe.config
+C:\Users\Пожилой Папугай\Desktop\XMLReader-master\DataGridView\bin\Debug\DataGridView.exe
+C:\Users\Пожилой Папугай\Desktop\XMLReader-master\DataGridView\bin\Debug\DataGridView.pdb
+C:\Users\Пожилой Папугай\Desktop\XMLReader-master\DataGridView\obj\Debug\XMLReader.csprojAssemblyReference.cache
+C:\Users\Пожилой Папугай\Desktop\XMLReader-master\DataGridView\obj\Debug\DataGridView.Form1.resources
+C:\Users\Пожилой Папугай\Desktop\XMLReader-master\DataGridView\obj\Debug\DataGridView.New.resources
+C:\Users\Пожилой Папугай\Desktop\XMLReader-master\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+C:\Users\Пожилой Папугай\Desktop\XMLReader-master\DataGridView\obj\Debug\XMLReader.csproj.GenerateResource.cache
+C:\Users\Пожилой Папугай\Desktop\XMLReader-master\DataGridView\obj\Debug\DataGridView.exe
+C:\Users\Пожилой Папугай\Desktop\XMLReader-master\DataGridView\obj\Debug\DataGridView.pdb
